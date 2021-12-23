@@ -1,0 +1,15 @@
+* APM : TD1
+
+Architecture et Programmation d'accélérateurs Matériels
+
+** Work done
+
+Here the behavior of a GPU emulated by a CPU on a simple vector addition.
+The threads in use are POSIX threads.
+The calculation is done on an 1D-grid.
+
+** Credits
+
+The CUDA code (main.cu) is a given code that is a part of the second year
+of the *Calcul Haute Performance Simulation* master degree, classes of
+/Architecture et Programmation d'accélérateurs Matériels/, TD1.
